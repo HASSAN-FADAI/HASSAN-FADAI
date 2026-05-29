@@ -26,7 +26,7 @@ Apart from everyday coding, I collaborate closely with AI to build complex appli
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/YOUR_USERNAME">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="My GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HASSAN-FADAI&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="My GitHub Stats" />
 </a>
 
 <!-- links to social media icons -->
@@ -41,5 +41,5 @@ Apart from everyday coding, I collaborate closely with AI to build complex appli
 <!-- links to your social media accounts -->
 
 [1]: https://twitter.com/YOUR_TWITTER
-[2]: https://github.com/YOUR_USERNAME
+[2]: https://github.com/HASSAN-FADAI
 [3]: https://www.linkedin.com/in/YOUR_LINKEDIN/
