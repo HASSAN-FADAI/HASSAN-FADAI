@@ -4,13 +4,12 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is [Your Name] and I'm an independent mobile application developer. I'm from Tolga, Algeria. I specialize in building cross-platform applications using Flutter and Dart, and I have a strong practical background in Linux system administration. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+My name is Fadai Hassan and I'm an independent mobile application developer. I'm from  Algeria. I specialize in building cross-platform applications using Flutter and Dart, and I have a strong practical background in Linux system administration. You can find me on , [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Backend-Supabase-informational?style=flat&logo=supabase&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 
