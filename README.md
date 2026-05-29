@@ -22,10 +22,10 @@ Apart from everyday coding, I collaborate closely with AI to build complex appli
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<a href="https://github.com/HASSAN-FADAI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HASSAN-FADAI&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/HASSAN-FADAI">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HASSAN-FADAI&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="My GitHub Stats" />
 </a>
 
