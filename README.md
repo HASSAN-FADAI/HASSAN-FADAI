@@ -17,7 +17,7 @@ My name is Fadai Hassan and I'm an independent mobile application developer. I'm
 
 Apart from everyday coding, I collaborate closely with AI to build complex applications. Currently, my main focus is:
 
-* **CattleInvest:** Developing a comprehensive platform designed for livestock management and investment. The project involves real-time data synchronization, secure workflows, and digital tracking using unique tags.
+* **Amoniq:** Developing a comprehensive platform designed for livestock management and investment. The project involves real-time data synchronization, secure workflows, and digital tracking using unique tags.
 
 ## &#x1f4c8; GitHub Stats
 
