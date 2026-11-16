@@ -42,4 +42,4 @@ Apart from everyday coding, I collaborate closely with AI to build complex appli
 
 [1]: https://twitter.com/YOUR_TWITTER
 [2]: https://github.com/HASSAN-FADAI
-[3]: https://www.linkedin.com/in/YOUR_LINKEDIN/
+[3]: https://www.linkedin.com/in/hassan-fadai-77847140b?utm_source=share_via&utm_content=profile&utm_medium=member_android
