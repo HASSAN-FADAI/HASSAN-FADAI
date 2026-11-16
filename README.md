@@ -5,7 +5,11 @@ here<!-- More info, tips and tricks for making GitHub Profile README can be foun
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Fadai Hassan and I'm an independent mobile application developer. I'm from  Algeria. I specialize in building cross-platform applications using Flutter and Dart, and I have a strong practical background in Linux system administration. You can find me on , [![LinkedIn][3.2]][3].
+I'm Fadai Hassan, a developer from Algeria passionate about building modern, scalable applications.
+I'm focused on Full-Stack Development, combining Flutter & Dart for cross-platform mobile applications with NestJS & TypeScript for backend development.
+I enjoy designing RESTful APIs, working with databases, implementing authentication systems, and building complete application solutions. I also have a practical background in Linux system administration.
+
+. You can find me on , [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
