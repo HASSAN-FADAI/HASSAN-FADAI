@@ -13,7 +13,9 @@ My name is Fadai Hassan and I'm an independent mobile application developer. I'm
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Backend-Supabase-informational?style=flat&logo=supabase&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-
+![](![](https://img.shields.io/badge/Backend-NestJS-informational?style=flat&logo=nestjs&logoColor=white&color=2bbc8a)
+![](![](https://img.shields.io/badge/ORM-TypeORM-informational?style=flat&logo=typeorm&logoColor=white&color=2bbc8a)
+![](![](https://img.shields.io/badge/Database-PostgreSQL-informational?(style=flat&logo=postgresql&logoColor=white&color=2bbc8a)) 
 ## 🚀 Current Projects & Focus
 
 Apart from everyday coding, I collaborate closely with AI to build complex applications. Currently, my main focus is:
